@@ -7,7 +7,7 @@ Sou Historiador e desenvolvi esta página para documentações digitais e explic
 > **Objetivo desta página**: documentar os trabalhos de história digital dos quais participo — do laboratório ao repositório, com código, dados, documentação e exemplos reproduzíveis.
 
 <!-- Player de vídeo no README -->
-<video src="https://attachments-cdn-s.coub.com/coub_storage/coub/simple/cw_video_for_sharing/51045baadb4/a96bff47a7487cb980ce8/1678553488_looped_1678553487.mp4?dl=1" 
+<video src="https://github.com/alessonrota/alessonrota/blob/main/I've%20Got%20a%20Computer.mp4" 
   controls 
   loop 
   muted 
