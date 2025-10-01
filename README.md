@@ -6,20 +6,16 @@ Sou Historiador e desenvolvi esta página para documentações digitais e explic
 
 > **Objetivo desta página**: documentar os trabalhos de história digital dos quais participo — do laboratório ao repositório, com código, dados, documentação e exemplos reproduzíveis.
 
-<!-- Vídeo (autoplay mudo) -->
-<video
-  src="https://attachments-cdn-s.coub.com/coub_storage/coub/simple/cw_video_for_sharing/51045baadb4/a96bff47a7487cb980ce8/1678553488_looped_1678553487.mp4?dl=1"
-  autoplay
-  muted
-  loop
-  playsinline
-  controls
-  style="max-width:100%;height:auto;">
+<!-- Player de vídeo no README -->
+<video src="https://attachments-cdn-s.coub.com/coub_storage/coub/simple/cw_video_for_sharing/51045baadb4/a96bff47a7487cb980ce8/1678553488_looped_1678553487.mp4?dl=1" 
+  controls 
+  loop 
+  muted 
+  playsinline 
+  style="max-width:100%; height:auto;">
+  Seu navegador não suporta a tag <code>video</code>.
 </video>
 
-<p>
-  ▶️ <a href="https://attachments-cdn-s.coub.com/coub_storage/coub/simple/cw_video_for_sharing/51045baadb4/a96bff47a7487cb980ce8/1678553488_looped_1678553487.mp4?dl=1">Ver vídeo (link direto)</a>
-</p>
 
 
 ## 🔎 Áreas e interesses
