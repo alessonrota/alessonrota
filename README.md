@@ -28,5 +28,10 @@ Sou Historiador e desenvolvi esta página para documentações digitais e explic
 
 
 
-Também documento meus dados na [Rede Mocambos](https://labmocambos.taina.net.br/alessonrota), principalmente projetos de conhecimento livre e voltados para as memórias das comunidades.
+<p>
+  Também documento meus dados na 
+  <a href="https://labmocambos.taina.net.br/alessonrota" target="_blank">
+    Rede Mocambos
+  </a>, principalmente projetos de conhecimento livre e voltados para as memórias das comunidades.
+</p>
 ---
