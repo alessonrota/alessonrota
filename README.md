@@ -6,15 +6,10 @@ Sou Historiador e desenvolvi esta página para documentações digitais e explic
 
 > **Objetivo desta página**: documentar os trabalhos de história digital dos quais participo — do laboratório ao repositório, com código, dados, documentação e exemplos reproduzíveis.
 
-<!-- Player de vídeo no README -->
-<video src="https://github.com/alessonrota/alessonrota/blob/main/I've%20Got%20a%20Computer.mp4" 
-  controls 
-  loop 
-  muted 
-  playsinline 
-  style="max-width:100%; height:auto;">
-  Seu navegador não suporta a tag <code>video</code>.
-</video>
+
+<p align="center">
+  <img src="https://github.com/alessonrota/alessonrota/blob/main/video_demo.gif" alt="Demonstração" />
+</p>
 
 
 
