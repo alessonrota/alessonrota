@@ -26,4 +26,7 @@ Sou Historiador e desenvolvi esta página para documentações digitais e explic
 - [Ferramentas-tese-de-doutorado](https://github.com/alessonrota/Ferramentas-tese-de-doutorado) — scripts de apoio (coleta, OCR/NLP e visualizações) usados na pesquisa.
 - [Lovelace](https://github.com/alessonrota/Lovelace) — modelo fine-tuned (*Ada-Lovelace*), voltado para classificação e apoio arquivístico com LLMs locais.
 
+
+
+Também documento meus dados na [Rede Mocambos](https://labmocambos.taina.net.br/alessonrota), principalmente projetos de conhecimento livre e voltados para as memórias das comunidades.
 ---
