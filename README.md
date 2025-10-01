@@ -4,7 +4,7 @@ Sou Historiador e desenvolvi esta página para documentações digitais e explic
 
 
 
-> **Objetivo desta página**: documentar os trabalhos de história digital dos quais participo — do laboratório ao repositório, com código, dados, documentação e exemplos reproduzíveis.
+> **Objetivo da página**: documentar os trabalhos de história digital dos quais participo — do laboratório ao repositório, com código, dados, documentação e exemplos reproduzíveis.
 
 
 <p align="center">
