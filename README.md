@@ -1,4 +1,4 @@
-# Olá! Eu sou o Alesson Ramon Rota 👋
+# Olá! Eu sou Alesson👋
 
 Sou Historiador e desenvolvi esta página para documentações digitais e explicações técnico-epstemológicas. Trabalho com algorítimos de alto e baixo nível para urdir pesquisador(a)-programador(a) na disciplina da história. 
 
