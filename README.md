@@ -21,7 +21,6 @@ Sou Historiador e desenvolvi esta página para documentações digitais e explic
 - História Pública
 ## 📦 Repositórios em destaque
 - [DigitArq](https://github.com/alessonrota/DigitArq) — programa modular de funções arquivísticas em Python com registro **PREMIS** e arquitetura de plugins.
-- [Machamba](https://github.com/alessonrota/Machamba) — automação de irrigação agrícola com Arduino/Big Dot, projeto de tecnologia social ligado à Casa de Cultura Tainã.
 - [bigdot](https://github.com/alessonrota/bigdot) (fork) — placa **LibreLab Big Dot** usada nos projetos de automação/IoT comunitária.
 - [Ferramentas-tese-de-doutorado](https://github.com/alessonrota/Ferramentas-tese-de-doutorado) — Algorítmos de apoio (coleta, OCR/NLP e visualizações) usados na pesquisa.
 - [Lovelace](https://github.com/alessonrota/Lovelace) — modelo fine-tuned (*Ada-Lovelace*), voltado para classificação e apoio arquivístico com LLMs locais.
