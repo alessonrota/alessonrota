@@ -16,8 +16,8 @@ Sou Historiador e desenvolvi esta página para documentações digitais e explic
 ## 🔎 Áreas e interesses
 - Teoria da História e História da Historiografia
 - História Digital
-- Preservação Digital
 - História intelectual
+- Preservação Digital
 - História Pública
 ## 📦 Repositórios em destaque
 - [DigitArq](https://github.com/alessonrota/DigitArq) — programa modular de funções arquivísticas em Python com registro **PREMIS** e arquitetura de plugins.
